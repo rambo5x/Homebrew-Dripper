@@ -5,6 +5,6 @@ Project Supervisor/Mentor:
 Eric Michael Martinez
 
 Developers for this project:
-Michael Morales
-Angel Moreno
-Daniel Ramos
+Michael Morales,
+Angel Moreno,
+Daniel Ramos,
