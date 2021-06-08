@@ -1,7 +1,7 @@
 # SE2-Final-Project
 Software Engineering II Team Final App Project
 
-Description: 
+Description:\
 ● Group project that aimed at applying Agile methodologies when developing app software in the real world\
 ● Programmed in Flutter and Dart\
 ● Project consisted of professional modern development ideas such as code reviews, multi-branching, unit testing\
@@ -12,7 +12,7 @@ locally\
 Project Supervisor/Mentor:\
 Eric Michael Martinez
 
-Developers for this project:
+Developers for this project:\
 Michael Morales\
 Angel Moreno\
 Daniel Ramos
